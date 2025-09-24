@@ -2,9 +2,18 @@
 
 ## personal link
 
+Linux
 ```
 git clone git@github.com:faflik/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+
+
 ```
+Windows PowerShell
+```
+git clone git@github.com:faflik/kickstart.nvim.git "${env:LOCALAPPDATA}\nvim"
+```
+
+
 
 ## Introduction
 
